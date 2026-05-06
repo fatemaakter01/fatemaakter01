@@ -1,142 +1,161 @@
 <div align="center">
 
-# Hi 👋, I'm Fatema Akter
-### Full Stack Java Developer | Spring Boot & Angular Developer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Fatema Akter
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;Angular+Frontend+Developer;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+### 💻 Full Stack Java Developer | Spring Boot & Angular Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Developer;Angular+Frontend+Developer;REST+API+Developer;Clean+Code+%7C+Modern+UI+%7C+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌟 About Me
 
-💻 Passionate Full Stack Developer specializing in **Java, Spring Boot, and Angular**
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Skilled in building scalable web applications and RESTful APIs
+✨ Passionate and self-motivated **Full Stack Java Developer**
 
-🧠 Strong knowledge of:
-- Core Java
+🚀 Specialized in:
+- Java
+- Spring Boot
+- Angular
+- REST API Development
+
+🔥 Strong understanding of:
 - OOP
-- Collections
+- Collections Framework
 - Multithreading
 - Exception Handling
 - JDBC
+- Hibernate & JPA
 
-🌱 Currently improving my skills in:
-- Advanced Spring Ecosystem
+🎯 I love building scalable applications with clean and maintainable code.
+
+🌱 Currently learning:
+- Advanced Spring Security
 - System Design
-- Clean Architecture
+- Microservices Architecture
 
-🎯 Goal:
-To become a highly skilled Software Engineer and contribute to impactful real-world applications.
-
----
-
-# 👩‍💻 Professional Summary
-
-Full Stack Developer specializing in Java/Spring and Angular, with strong expertise in core Java (Multithreading, Collections, Exception Handling). Experienced in building scalable APIs using Spring Boot, Hibernate, and JPA, and developing responsive frontends with Angular. Skilled in writing clean, maintainable code and quickly adapting to new technologies.
+⚡ Fun Fact:
+I enjoy turning ideas into real-world applications.
 
 ---
 
 # 🚀 Tech Stack
 
-## 👨‍💻 Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 👨‍💻 Programming Languages
 
----
-
-## ⚙️ Backend Technologies
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 
 ---
 
-## 🎨 Frontend Technologies
+## ⚙️ Backend Development
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 
 ---
 
 ## 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<p>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+
+</div>
 
 ---
 
 # 📌 Featured Project
 
+<div align="center">
+
 # 🎉 Event Management System
 
-🔗 Project Link:  
+</div>
+
+🔗 **Project Link:**  
 👉 https://t.ly/1f-Mx
 
-## 🔥 Features
+---
 
-- Full Stack Application
-- User & Event Management
-- Secure CRUD Operations
-- Responsive UI
-- RESTful API Integration
+## ✨ Key Features
+
+✅ Full Stack Web Application  
+✅ Event & User Management  
+✅ Secure CRUD Operations  
+✅ RESTful API Integration  
+✅ Responsive Modern UI  
+✅ PostgreSQL Database Integration
+
+---
 
 ## 🛠️ Technologies Used
 
-- Spring Boot
-- Angular
-- TypeScript
-- PostgreSQL
-- Spring Data JPA
-- Bootstrap
-- Git & GitHub
-
-## 📖 Project Summary
-
-- Engineered a full-stack Event Management System using Angular and Spring Boot
-- Developed scalable RESTful APIs for efficient event and user management
-- Implemented secure CRUD functionalities with PostgreSQL integration
-- Designed a responsive UI to enhance usability and user experience
+```txt
+Spring Boot • Angular • TypeScript • PostgreSQL
+REST API • Spring Data JPA • Bootstrap • Git & GitHub
+```
 
 ---
 
-# 🎓 Education
+## 📖 Project Overview
+
+🚀 Developed a modern full-stack Event Management System using **Angular** and **Spring Boot**
+
+⚡ Built scalable and secure REST APIs for efficient event and user management
+
+🎨 Designed a responsive and user-friendly interface for enhanced user experience
+
+🗄️ Integrated PostgreSQL database with Spring Data JPA for efficient data handling
+
+---
+
+# 📚 Education
 
 🎓 **Masters (MSS) — Economics**  
-University of Dhaka  
-Passing Year: 2024
-
-🎓 **Honours (BSS) — Economics**  
-University of Dhaka  
-Passing Year: 2022
+🏛️ University of Dhaka  
+📅 Passing Year: 2024
 
 ---
 
-# 💼 Experience
+🎓 **Honours (BSS) — Economics**  
+🏛️ University of Dhaka  
+📅 Passing Year: 2022
+
+---
+
+# 💼 Work Experience
 
 ## 👩‍🏫 Teacher
 
-📍 Determined Model School — Dhaka, Bangladesh  
-🗓️ 2020 - 2021
+🏫 Determined Model School — Dhaka, Bangladesh  
+📅 2020 - 2021
 
 - Curriculum Development
 - Classroom Coordination
@@ -146,8 +165,8 @@ Passing Year: 2022
 
 ## 🏥 Health Worker
 
-📍 Bangladesh Women's Health Coalition  
-🗓️ 2017
+🏢 Bangladesh Women's Health Coalition  
+📅 2017
 
 - Health Awareness
 - Assisted Doctors During Health Camps
@@ -157,38 +176,46 @@ Passing Year: 2022
 
 # 📜 Professional Qualification
 
-## Web & Mobile App Development Using Android, Spring Boot And Flutter
+## 💻 Web & Mobile App Development Using Android, Spring Boot & Flutter
 
 🏢 IsDB-BISEW IT Scholarship Programme
 
-### Modules Covered
+### 📚 Modules Covered
 
-- Java
-- Advanced Java
-- Hibernate
-- Angular
-- Spring Framework
-- Spring Boot
-- Android
-- Oracle 11g
-- JSP
-- Servlet
-- JSF
-- JSTL
-- UML
-- Jasper Report
+✔ Java  
+✔ Advanced Java  
+✔ Spring Framework  
+✔ Spring Boot  
+✔ Hibernate  
+✔ Angular  
+✔ Android  
+✔ JSP & Servlet  
+✔ JSF & JSTL  
+✔ Oracle 11g  
+✔ UML  
+✔ Jasper Report
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=fatemaakter01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatemaakter01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fatemaakter01&theme=tokyonight&hide_border=false)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemaakter01&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemaakter01&theme=tokyonight&hide_border=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemaakter01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=fatemaakter01&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
 
 </div>
 
@@ -196,7 +223,7 @@ Passing Year: 2022
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="mailto:fatemaaakter1002@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -210,7 +237,7 @@ Passing Year: 2022
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -224,10 +251,26 @@ Passing Year: 2022
 
 ---
 
+# ☕ Support Me
+
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat." ✨
+<a href="https://ko-fi.com/">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fatemaakter01&label=Profile%20views&color=0e75b6&style=flat)
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Learn. Build. Repeat.” ✨
+
+<img src="https://komarev.com/ghpvc/?username=fatemaakter01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>
