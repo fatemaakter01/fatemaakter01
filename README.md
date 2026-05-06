@@ -1,14 +1,14 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Fatema Akter
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Fatema Akter
 
-### 💻 Full Stack Java Developer | Spring Boot & Angular Developer
+### 🚀 Full Stack Java Developer | Spring Boot & Angular Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Developer;Angular+Frontend+Developer;REST+API+Developer;Clean+Code+%7C+Modern+UI+%7C+Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Java+Developer;Spring+Boot+Backend+Engineer;Angular+Frontend+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Design+%7C+Problem+Solver" alt="Typing SVG" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,50:243B55,100:4B79A1&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Angular%20Developer&descAlignY=55&descSize=18"/>
 
 </div>
 
